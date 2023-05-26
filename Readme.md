@@ -1,4 +1,7 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![GitHub](https://img.shields.io/github/license/MarioVIdoni/Data-Harvest) ![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcomunidad.comprasdominicana.gob.do%2FPublic%2FTendering%2FContractNoticeManagement%2FIndex) ![GitHub watchers](https://img.shields.io/github/watchers/MarioVidoni/Data-harvest?style=social)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/marioVidoni) 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
+![GitHub](https://img.shields.io/github/license/MarioVidoni/Data-Harvest?style=flat-square) 
+![GitHub watchers](https://img.shields.io/github/watchers/MarioVidoni/Data-harvest?style=social)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/marioVidoni) 
 
 # Data Harvest
 
@@ -10,7 +13,7 @@ By leveraging the extracted data, performing thorough analyses, and drawing mean
 
 ### Image of the website in question
 
-![website in question](images\website.jpg)
+![website in question](images/website.jpg)
 
 ## Describing the program
 
